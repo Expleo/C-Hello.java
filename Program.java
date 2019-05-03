@@ -1,7 +1,7 @@
 
 public class Program {
     public static void main(String[] args) {
-        //Hello
+        //Hello New Data
         int age = 2;
         int money = 500;
         
