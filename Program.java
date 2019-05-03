@@ -1,5 +1,7 @@
+
 public class Program {
     public static void main(String[] args) {
+        //Hello
         int age = 2;
         int money = 500;
         
